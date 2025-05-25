@@ -2,7 +2,7 @@
 
 :root {
   --primary-color: #949398FF;
-  --secondary-color: #0000FF;
+  --secondary-color: #F4DF4EFF;
 }
 
 * {
@@ -87,7 +87,7 @@ main {
 }
 
 .movie-info span.orange {
-  color: #0000FF;
+  color: #F4DF4EFF;
 }
 
 .movie-info span.red {
